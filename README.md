@@ -5,7 +5,7 @@ Computer Science Student
 ------------------------
 
 * 🌍  I'm based in Chandigarh
-* 🖥️  See my portfolio at [arpitaggarwal](http://https://www.linkedin.com/in/arpit-aggarwal-5b6040257/)
+* 🖥️  See my portfolio at [arpitaggarwal](https://www.linkedin.com/in/arpit-aggarwal-5b6040257/)
 * ✉️  You can contact me at [arpitaggarwal0511@gmail.com](mailto:arpitaggarwal0511@gmail.com)
 
 ### Skills
