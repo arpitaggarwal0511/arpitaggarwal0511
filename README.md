@@ -22,16 +22,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitaggarwal0511&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitaggarwal0511&theme=radical" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arpitaggarwal0511&show_icons=true&theme=react&border_radius=10" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=arpitaggarwal0511&theme=react&border_radius=10" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaggarwal0511&layout=compact&theme=react&border_radius=10" /> </p>
 
 ---
 
-### 🌐 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.link)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpitaggarwal0511)
 
