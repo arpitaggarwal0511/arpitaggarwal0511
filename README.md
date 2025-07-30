@@ -13,21 +13,30 @@
 
 ### 🛠️ My Stack
 
-**Languages:**  
-JavaScript · TypeScript · C++ · SQL · Python
-
-**Frontend:**  
-React · Next.js · TailwindCSS · Redux · HTML · CSS
-
-**Backend:**  
-Node.js (learning) · Supabase · Firebase
-
-**Tools:**  
-Git · GitHub · VS Code · Vercel · Netlify · Figma
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,html,css,tailwind,redux,cpp,python,git,github,vercel,netlify,figma&perline=8" />
+#### 👨‍💻 Languages  
+JavaScript · TypeScript · C++ · SQL · Python  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
 </p>
+
+#### 🎨 Frontend  
+React · Next.js · TailwindCSS · Redux · HTML · CSS  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" />
+</p>
+
+#### 🛢️ Backend  
+Node.js (learning) · Supabase · Firebase  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
+
+#### ⚒️ Tools  
+Git · GitHub · VS Code · Vercel · Netlify · Figma  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma" />
+</p>
+
 
 ---
 
