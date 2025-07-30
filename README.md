@@ -18,7 +18,7 @@ Backend: Supabase | Firebase | Node (learning)
 Tools: Git | GitHub | VS Code | Vercel | Netlify | Figma
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,cpp,py,git,github,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,css,html,tailwind,redux,cpp,py,git,github,vercel,netlify,figma" />
 </p>
 
 ### 💻 About Me
