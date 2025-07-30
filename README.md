@@ -12,14 +12,24 @@
 ---
 
 ### 🛠️ My Stack
-Languages: JavaScript | TypeScript | C++ | SQL | Python
-Frontend: React | TailwindCSS | Redux | HTML/CSS
-Backend: Supabase | Firebase | Node (learning)
-Tools: Git | GitHub | VS Code | Vercel | Netlify | Figma
+
+**Languages:**  
+JavaScript · TypeScript · C++ · SQL · Python
+
+**Frontend:**  
+React · Next.js · TailwindCSS · Redux · HTML · CSS
+
+**Backend:**  
+Node.js (learning) · Supabase · Firebase
+
+**Tools:**  
+Git · GitHub · VS Code · Vercel · Netlify · Figma
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,css,html,tailwind,redux,cpp,py,git,github,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,html,css,tailwind,redux,cpp,python,git,github,vercel,netlify,figma&perline=8" />
 </p>
+
+---
 
 ### 💻 About Me
 
