@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=arpitaggarwal0511&label=Profile%20views&color=0e75b6&style=flat" alt="arpitaggarwal0511" />
+</p>
 <h1 align="center">Hey 👋, I'm Arpit Aggarwal</h1>
 <p align="center">
   🚀 Web Dev · 🧠 CS Undergrad · 🔍 Always Learning
