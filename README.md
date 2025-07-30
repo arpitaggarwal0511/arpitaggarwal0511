@@ -26,9 +26,9 @@ React · Next.js · TailwindCSS · Redux · HTML · CSS
 </p>
 
 #### 🛢️ Backend  
-Node.js (learning) · Supabase · Firebase  
+Node.js   
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 #### ⚒️ Tools  
