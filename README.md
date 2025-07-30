@@ -11,6 +11,16 @@
 
 ---
 
+### 🛠️ My Stack
+Languages: JavaScript | TypeScript | C++ | SQL | Python
+Frontend: React | TailwindCSS | Redux | HTML/CSS
+Backend: Supabase | Firebase | Node (learning)
+Tools: Git | GitHub | VS Code | Vercel | Netlify | Figma
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,cpp,py,git,github,vercel,netlify,figma" />
+</p>
+
 ### 💻 About Me
 
 - 🏫 CS Undergrad @ Thapar Institute of Engineering & Technology 
