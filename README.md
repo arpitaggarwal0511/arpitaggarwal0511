@@ -1,21 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpit Aggarwal
-======================================================================================================================================
-
-Computer Science Student
-------------------------
-
-* 🌍  I'm based in Chandigarh
-* 🖥️  See my portfolio at [arpitaggarwal](https://www.linkedin.com/in/arpit-aggarwal-5b6040257/)
-* ✉️  You can contact me at [arpitaggarwal0511@gmail.com](mailto:arpitaggarwal0511@gmail.com)
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<h1 align="center">Hey 👋, I'm Arpit Aggarwal</h1>
+<p align="center">
+  🚀 Web Dev · 🧠 CS Undergrad · 🔍 Always Learning
 </p>
-### 👁️ Visitor Count
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arpitaggarwal0511&label=Profile%20views&color=0e75b6&style=flat" alt="arpitaggarwal0511" />
+<p align="center">
+  <a href="https://github.com/arpitaggarwal0511"><img src="https://img.shields.io/github/followers/arpitaggarwal0511?label=Follow&style=social"></a>
+  <a href="mailto:arpitaggarwal0511@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/arpit-aggarwal-5b6040257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square"></a>
 </p>
+
+---
+
+### 💻 About Me
+
+- 🏫 CS Undergrad @ Thapar Institute of Engineering & Technology 
+- 🌐 Fullstack Web Developer  
+- 📦 Building fun side-projects with React, Tailwind, Next.js , Node.js , MongoDB  
+- 🧠 Exploring AI, NLP & data stuff when I’m not debugging CSS  
+---
+
+### 🛠️ My Stack
+
+```ts
+Languages:  JavaScript | TypeScript | C++ | SQL | Python  
+Frontend:   React | TailwindCSS | Redux | HTML/CSS  
+Backend:    Supabase | Firebase | Node (learning)  
+Tools:      Git | GitHub | VS Code | Vercel | Netlify | Figma
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,cpp,py,git,github,vercel,netlify,figma" /> </p>
