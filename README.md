@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/arpitaggarwal0511"><img src="https://img.shields.io/github/followers/arpitaggarwal0511?label=Follow&style=social"></a>
   <a href="mailto:arpitaggarwal0511@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/arpit-aggarwal-5b6040257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/arpitaggarwal0511/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square"></a>
 </p>
 
 ---
