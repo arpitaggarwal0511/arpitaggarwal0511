@@ -62,13 +62,22 @@ Git · GitHub · VS Code · Vercel · Netlify · Figma · Render
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitaggarwal0511&show_icons=true&theme=react&border_radius=10&cache_seconds=86400" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=arpitaggarwal0511&theme=react&border_radius=10&cache_seconds=86400" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arpitaggarwal0511&show_icons=true&theme=react&hide_border=true&cache_seconds=21600"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=arpitaggarwal0511&theme=react&hide_border=true&cache_seconds=21600"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaggarwal0511&layout=compact&theme=react&border_radius=10&cache_seconds=86400"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaggarwal0511&layout=compact&theme=react&hide_border=true&cache_seconds=21600"
+  />
 </p>
+
 
 
 ---
