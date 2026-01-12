@@ -29,9 +29,9 @@ React · Next.js · TailwindCSS · Redux · HTML · CSS
 </p>
 
 #### 🛢️ Backend  
-Node.js   
+Node.js · Django 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django" />
 </p>
 
 #### ⚒️ Tools  
@@ -54,7 +54,15 @@ Git · GitHub · VS Code · Vercel · Netlify · Figma
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arpitaggarwal0511&show_icons=true&theme=react&border_radius=10" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=arpitaggarwal0511&theme=react&border_radius=10" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaggarwal0511&layout=compact&theme=react&border_radius=10" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitaggarwal0511&show_icons=true&theme=react&border_radius=10&cache_seconds=86400" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=arpitaggarwal0511&theme=react&border_radius=10&cache_seconds=86400" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaggarwal0511&layout=compact&theme=react&border_radius=10&cache_seconds=86400"/>
+</p>
+
 
 ---
 
