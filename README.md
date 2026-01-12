@@ -19,7 +19,7 @@
 #### 👨‍💻 Languages  
 JavaScript · TypeScript · C++ · SQL · Python  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,sql,python" />
 </p>
 
 #### 🎨 Frontend  
@@ -34,10 +34,17 @@ Node.js · Django
   <img src="https://skillicons.dev/icons?i=nodejs,django" />
 </p>
 
+####🗄️ Databases
+MongoDB · MySQL · PostgreSQL
+<p> 
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> 
+</p>
+
+
 #### ⚒️ Tools  
-Git · GitHub · VS Code · Vercel · Netlify · Figma  
+Git · GitHub · VS Code · Vercel · Netlify · Figma · Render
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma,render" />
 </p>
 
 
