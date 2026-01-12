@@ -17,9 +17,9 @@
 ### 🛠️ My Stack
 
 #### 👨‍💻 Languages  
-JavaScript · TypeScript · C++ · SQL · Python  
+JavaScript · TypeScript · C++ · Python  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,sql,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
 </p>
 
 #### 🎨 Frontend  
