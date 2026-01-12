@@ -34,7 +34,7 @@ Node.js · Django
   <img src="https://skillicons.dev/icons?i=nodejs,django" />
 </p>
 
-####🗄️ Databases
+#### 🗄️ Databases
 MongoDB · MySQL · PostgreSQL
 <p> 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> 
