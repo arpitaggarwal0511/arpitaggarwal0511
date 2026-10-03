@@ -51,8 +51,6 @@ Git · GitHub · VS Code · Vercel · Netlify · Figma · Render
 ---
 
 ### 💻 About Me
-
-- 🏫 CS Undergrad @ Thapar Institute of Engineering & Technology 
 - 🌐 Fullstack Web Developer  
 - 📦 Building fun side-projects with React, Tailwind, Next.js , Node.js , MongoDB  
 - 🧠 Exploring AI, NLP & data stuff when I’m not debugging CSS  
